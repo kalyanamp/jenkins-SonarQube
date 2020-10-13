@@ -14,6 +14,3 @@ Add build step" and select "Execute SonarQube Scanner.
 
 
 REF- https://github.com/sebivenlo/ESD-Jenkins2-Workshop.wiki.git
-
-
-Demo kalyana
